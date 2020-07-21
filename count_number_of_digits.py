@@ -1,4 +1,4 @@
-# Calculating the number of digits in a string
+# Counting the number of digits in a string
 
 
 def count_number_of_digits(string: str) -> int:
