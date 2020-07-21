@@ -11,3 +11,10 @@ def count_number_of_digits(string: str) -> int:
       count += 1
 
   return count
+
+
+# Testing the function
+
+print(count_number_of_digits("ssd72746382dsffsgd"))  # 8
+print(count_number_of_digits("b40 jidofhjasd2"))  # 3
+print(count_number_of_digits("ssd7834875hasfafd23424f32rf"))  # 14
