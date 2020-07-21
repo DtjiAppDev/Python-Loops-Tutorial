@@ -4,7 +4,7 @@
 from decimal import Decimal  # importing necessary library
 
 
-# Checking whether a string is a number open
+# Checking whether a string is a number or not
 
 
 def is_number(string: str) -> bool:
