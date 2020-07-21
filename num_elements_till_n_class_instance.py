@@ -1,4 +1,4 @@
-# Calculating the number of elements in a list until a particular class instance is encountered
+# Counting the number of elements in a list until a particular class instance is encountered
 
 
 def number_of_elements_till_n_class_instance(a_list: list, n_class: str) -> int:
