@@ -1,4 +1,4 @@
-# Calculating the number of positive integers needed for the sum to reach or surpass a particular value
+# Counting the number of positive integers needed for the sum to reach or surpass a particular value
 
 
 def positive_integers_needed(sum: int) -> int:
